@@ -1,0 +1,1 @@
+# Jquery-plagin-plagin-assignment
